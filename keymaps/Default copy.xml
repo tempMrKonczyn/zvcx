@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="QuickChangeScheme" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+</keymap>

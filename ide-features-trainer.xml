@@ -1,0 +1,259 @@
+<application>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="LessonStateBase">
+    <option name="myMap">
+      <map>
+        <entry key="Actions" value="NOT_PASSED" />
+        <entry key="Basic Completion" value="PASSED" />
+        <entry key="Basic Navigation" value="NOT_PASSED" />
+        <entry key="Class Search" value="NOT_PASSED" />
+        <entry key="CodeAssistance.CodeFormatting" value="PASSED" />
+        <entry key="CodeAssistance.EditorCodingAssistance" value="PASSED" />
+        <entry key="CodeAssistance.ParameterInfo" value="PASSED" />
+        <entry key="CodeAssistance.QuickPopups" value="PASSED" />
+        <entry key="Collapse" value="PASSED" />
+        <entry key="Comment Line" value="PASSED" />
+        <entry key="Completion with Tab" value="NOT_PASSED" />
+        <entry key="Completions.CompletionwithTab" value="PASSED" />
+        <entry key="Completions.StatementCompletion" value="PASSED" />
+        <entry key="Declaration and usages" value="NOT_PASSED" />
+        <entry key="Duplicate" value="PASSED" />
+        <entry key="EditorBasics.CommentLine" value="NOT_PASSED" />
+        <entry key="EditorBasics.DeleteLine" value="PASSED" />
+        <entry key="EditorBasics.Selection" value="NOT_PASSED" />
+        <entry key="File structure" value="NOT_PASSED" />
+        <entry key="Hippie Completion" value="NOT_PASSED" />
+        <entry key="Move" value="PASSED" />
+        <entry key="Multiple Selections" value="PASSED" />
+        <entry key="Navigation.Declaration/Implementation" value="PASSED" />
+        <entry key="Navigation.FileStructure" value="PASSED" />
+        <entry key="Navigation.JumptoSource" value="PASSED" />
+        <entry key="Navigation.Next/PreviousOccurrences" value="PASSED" />
+        <entry key="Postfix Completion" value="NOT_PASSED" />
+        <entry key="Refactorings.ExtractMethod" value="PASSED" />
+        <entry key="Refactorings.ExtractVariable/Field" value="PASSED" />
+        <entry key="Refactorings.RefactoringBasics" value="PASSED" />
+        <entry key="Refactorings.Rename" value="PASSED" />
+        <entry key="Select" value="PASSED" />
+        <entry key="Smart Type Completion" value="PASSED" />
+        <entry key="Statement Completion" value="NOT_PASSED" />
+        <entry key="swift.codeassistance.codeformatting" value="NOT_PASSED" />
+        <entry key="swift.codeassistance.quickpopups" value="NOT_PASSED" />
+        <entry key="swift.codegeneration.createfromusage" value="NOT_PASSED" />
+        <entry key="swift.codegeneration.generate" value="NOT_PASSED" />
+        <entry key="swift.codegeneration.overrideimplement" value="NOT_PASSED" />
+        <entry key="swift.codegeneration.quickfixes" value="NOT_PASSED" />
+        <entry key="swift.completions.basiccompletion" value="NOT_PASSED" />
+        <entry key="swift.editorbasics.collapse" value="NOT_PASSED" />
+        <entry key="swift.editorbasics.commentline" value="NOT_PASSED" />
+        <entry key="swift.editorbasics.deleteline" value="NOT_PASSED" />
+        <entry key="swift.editorbasics.duplicate" value="NOT_PASSED" />
+        <entry key="swift.editorbasics.move" value="NOT_PASSED" />
+        <entry key="swift.editorbasics.multipleselections" value="NOT_PASSED" />
+        <entry key="swift.editorbasics.selection" value="NOT_PASSED" />
+        <entry key="swift.navigation.code" value="NOT_PASSED" />
+        <entry key="swift.navigation.search" value="NOT_PASSED" />
+        <entry key="swift.navigation.toolwindows" value="NOT_PASSED" />
+        <entry key="swift.rdt.debug" value="NOT_PASSED" />
+        <entry key="swift.rdt.run" value="NOT_PASSED" />
+        <entry key="swift.rdt.test" value="NOT_PASSED" />
+        <entry key="swift.refactorings.extract.closure" value="NOT_PASSED" />
+        <entry key="swift.refactorings.extract.method" value="NOT_PASSED" />
+        <entry key="swift.refactorings.extract.variable" value="NOT_PASSED" />
+        <entry key="swift.refactorings.rename" value="NOT_PASSED" />
+      </map>
+    </option>
+  </component>
+  <component name="StatisticBase">
+    <option name="persistedLessonId2State">
+      <map>
+        <entry key="Basic Completion">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="362013" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.CodeFormatting">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="88691" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.EditorCodingAssistance">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="114211" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.ParameterInfo">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="15570" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.QuickPopups">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="46601" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Collapse">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="241605" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Comment Line">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="153714" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Completions.CompletionwithTab">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="26869" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Completions.StatementCompletion">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="46995" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Duplicate">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="51577" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="EditorBasics.DeleteLine">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="162100" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Move">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="3894717989" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Multiple Selections">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="84417" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.Declaration/Implementation">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="228142" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.FileStructure">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="7181" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.JumptoSource">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="43043" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.Next/PreviousOccurrences">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="42401" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Refactorings.ExtractMethod">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="10867" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Refactorings.ExtractVariable/Field">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="38574" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Refactorings.RefactoringBasics">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="805558" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Refactorings.Rename">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="74744" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Select">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="213153" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Smart Type Completion">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="202324" />
+            </StatisticData>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
